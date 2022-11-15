@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    background-color: bisque;
+}
+
+.header__logo {
+    display: flex;
+    font-size: larger;
+}
+
+body {
+    background-image: url(/images/gatos-inicio.jpg);
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.logo {
+    display: flex;
+    height: 50px;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+a {
+    color: black;
+}
+
+.navbar {
+    background-color: bisque;
+    font-size: 25px;
+}
